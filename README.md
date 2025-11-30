@@ -1,2 +1,2 @@
 # first-repository
-Authoe - shubh tiwari
+Author - shubh tiwari
